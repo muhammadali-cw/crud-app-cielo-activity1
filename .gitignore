@@ -1,0 +1,22 @@
+.idea/**
+/Serverless/CloudReports/*.csv
+/Serverless/CloudReports/*.xlsx
+
+__pycache__/
+.serverless/
+node_modules
+package-lock.json
+venv*
+*.pyc
+*.csv
+*.log
+*.js
+/Serverless/internal_apis/mqtt_subscriber.py
+/Serverless/CloudReports/unique macs
+local_settings.py
+logs
+certificates
+.env
+/Serverless/BackendServices/RawDataInsertionV2/.env-local
+
+**/.idea
